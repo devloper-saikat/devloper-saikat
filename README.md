@@ -1,6 +1,6 @@
-<!-- Banner -->
+<!-- Header Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Saikat+Bera!;MERN+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Saikat+Bera!;MERN+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -9,69 +9,60 @@
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
-🎯 **Who Am I?**  
-I’m **Saikat Bera**, a passionate and driven Full Stack Developer specialized in the **MERN stack** — building high-performance web apps that scale.
+Hey there! I'm **Saikat Bera**, a passionate Full Stack Developer with a deep love for JavaScript and the **MERN stack**. I thrive on building scalable web applications, contributing to open source, and constantly leveling up my dev game.
 
-💼 **What I Do?**
-- ⚙️ Develop full-stack applications from scratch
-- 📦 Architect MongoDB schemas for scalability
-- 🔐 Build secure and optimized APIs
-- 🎨 Craft responsive UIs with React + CSS frameworks
-- 🌍 Contribute to Open Source and give back to the community
-
-📈 **Current Goals**
-- 🔍 Mastering **TypeScript** & **Next.js**
-- ⚡ Learning DevOps workflows (CI/CD, Docker, AWS basics)
-- 📚 Sharing knowledge via blogs & GitHub projects
+### 💡 What I Do
+- 🔧 Build full-stack apps using MongoDB, Express, React & Node.js  
+- 💡 Design optimized REST APIs and scalable backend systems  
+- 🎨 Create pixel-perfect, responsive UIs with TailwindCSS  
+- 🤝 Contribute to open source & support the dev community  
+- 🚀 Always exploring new technologies and workflows
 
 ---
 
-## 🛠️ Tech Toolbox
+## 🛠️ Tech Stack
 
-### 💻 Languages
+### 👨‍💻 Languages & Tools  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-
-### ⚙️ Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 
-### 🧰 Backend & Database
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+### 🚀 Frontend  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
 
-### 🧑‍💻 Dev Tools
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+### 🔧 Backend & DB  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+
+### 🧰 Dev Tools  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 ![NPM](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white)
 
 ---
 
-## 🌟 Featured Projects
+## 📚 Currently Learning
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 📝 **DevBlog** | A full-featured blogging platform with markdown support and authentication | `React`, `Express`, `MongoDB` |
-| 📊 **Analytics Dash** | A responsive dashboard with dynamic charts and data visualization | `React`, `Chart.js`, `Tailwind CSS` |
-| 🧩 **Open Source CLI Tool** | A Node.js tool that automates repetitive tasks | `Node.js`, `Commander.js`, `Git` |
-
-> 🔗 Check out my pinned repos for source code!
+- 💙 **TypeScript** – bringing safety to JS  
+- ⚡ **Next.js** – mastering SSR & SSG  
+- ☁️ **AWS (S3, EC2)** – building for the cloud  
+- 🐳 **Docker** – deploying with containers  
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devloper-saikat&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devloper-saikat&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=devloper-saikat&theme=radical" width="48%" />
 </p>
 
 <p align="center">
@@ -80,20 +71,11 @@ I’m **Saikat Bera**, a passionate and driven Full Stack Developer specialized 
 
 ---
 
-## 🧠 Currently Learning
+## 🤝 Connect With Me
 
-- 🔷 TypeScript for better type safety
-- ⚡ Next.js for SSR and SSG
-- ☁️ Basics of AWS (EC2, S3)
-- 🐳 Docker for containerized deployments
-
----
-
-## 🤝 Let's Connect!
-
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)
-- 📧 [avisaikat7029@gmail.com](mailto:avisaikat7029@gmail.com)
-- 🌐 [Portfolio Website](https://your-portfolio-link.com) <!-- Optional -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
+📧 **Email:** [avisaikat7029@gmail.com](mailto:avisaikat7029@gmail.com)  
+🌐 **Portfolio:** [https://your-portfolio-link.com](https://your-portfolio-link.com)
 
 ---
 
@@ -101,4 +83,4 @@ I’m **Saikat Bera**, a passionate and driven Full Stack Developer specialized 
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </p>
 
-<p align="center">Made with ❤️ by <strong>Saikat Bera</strong></p>
+<p align="center">Built with ❤️ by <strong>Saikat Bera</strong></p>
