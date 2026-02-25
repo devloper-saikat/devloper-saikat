@@ -73,7 +73,7 @@ Hey there! I'm **Saikat Bera**, a passionate Full Stack Developer with a deep lo
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-saikat)  
 📧 **Email:** [avisaikat7029@gmail.com](mailto:avisaikat7029@gmail.com)  
 🌐 **Portfolio:** [https://your-portfolio-link.com](https://your-portfolio-link.com)
 
